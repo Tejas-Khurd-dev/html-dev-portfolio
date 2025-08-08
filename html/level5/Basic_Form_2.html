@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Basic 2</title>
+</head>
+<body>
+    <!-- In HTML, the action attribute in the <form> tag specifies where the form data should be sent when the form is submitted. -->
+
+    <!-- / means action will done in this website eg: you are submitting form to knowledgegate website then don't have to write knowledge/submit.php we can write /submit.php -->
+
+    <!--Name is used to identify the input when the form is submitted.
+    Example: name="userName" → sent as userName=John in form data. -->
+    
+    <!-- Value sets the default (pre-filled) value in the input field.
+    For example, value="John" shows “John” already filled in the box or its a guess that username is john. -->
+
+    <!-- if you do not write value, the browser will still collect and send whatever the user types into the input field to the server as long as the name is present. Value is only for pre-filling the field. What the user types will always override the value and will be sent to the server. -->
+
+    <form action="/submit-here.php">
+        <p>User Name: <input type="text" placeholder="Enter your email" name="userName" value="John" required></p>
+
+        <p>Password: <input type="password" placeholder="Enter password" name="username_password" value="" required></p>
+
+        <input type="submit">
+    </form>
+</body>
+</html>
