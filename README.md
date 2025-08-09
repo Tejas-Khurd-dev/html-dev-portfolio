@@ -1,4 +1,4 @@
-HTML Development Projects
+HTML DEVELOPMENT PORTFOLIO
 This repository contains a curated collection of HTML-based projects focused on developing and demonstrating frontend development skills. Each project is self-contained, organized, and built using only HTML.
 
 Project Structure
