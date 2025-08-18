@@ -1,0 +1,57 @@
+# File Tree: html-dev-portfolio
+
+```
+├── 📁 .git/ 🚫 (auto-hidden)
+├── 📁 Images/
+│   ├── 🖼️ Musashi.jpg
+│   ├── 🖼️ Pikachu.png
+│   ├── 🖼️ Sukuna.jpg
+│   └── 🖼️ shapes.png
+├── 📁 Mini-Projects/
+│   ├── 🌐 Project1.html
+│   ├── 🌐 Project2.html
+│   └── 🌐 Project4.html
+├── 📁 assets/
+│   └── 📄 Itachi.mp4
+├── 📁 html/
+│   ├── 📁 level1/
+│   │   ├── 🌐 BR_HR_Tag.html
+│   │   ├── 🌐 Basic_Tags.html
+│   │   ├── 🌐 Comments.html
+│   │   ├── 🌐 Headings.html
+│   │   ├── 🌐 Intro.html
+│   │   ├── 🌐 PRE_Tag.html
+│   │   └── 🌐 Paragraphs.html
+│   ├── 📁 level2/
+│   │   ├── 📁 Map Tag/
+│   │   │   ├── 🌐 Circle.html
+│   │   │   ├── 🌐 Map_Tag.html
+│   │   │   └── 🌐 Square.html
+│   │   ├── 🌐 Anchor_Tag.html
+│   │   ├── 🌐 Attributes.html
+│   │   ├── 🌐 Images.html
+│   │   ├── 🌐 Script.html
+│   │   └── 🌐 Video.html
+│   ├── 📁 level3/
+│   │   ├── 🌐 Block_Inline_Element.html
+│   │   ├── 🌐 Div_Tag.html
+│   │   ├── 🌐 Layout.html
+│   │   ├── 🌐 Navigation_Tag.html
+│   │   ├── 🌐 Span_Tag.html
+│   │   └── 🌐 Special_Char_Ref.html
+│   ├── 📁 level4/
+│   │   ├── 🌐 Ordered_List.html
+│   │   ├── 🌐 Table.html
+│   │   ├── 🌐 Unordered_List.html
+│   │   └── 🌐 i_frame.html
+│   └── 📁 level5/
+│       ├── 🌐 Basic_Form_1.html
+│       ├── 🌐 Basic_Form_2.html
+│       ├── 🌐 Basic_Form_3.html
+│       ├── 🌐 Label.html
+│       └── 🌐 TextArea.html
+├── 📄 File_Tree.txt
+├── 📜 LICENSE
+├── 📖 README.md
+└── 🌐 index.html
+```
