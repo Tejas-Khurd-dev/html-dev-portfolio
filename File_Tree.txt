@@ -2,6 +2,84 @@
 
 ```
 ├── 📁 .git/ 🚫 (auto-hidden)
+├── 📁 Dr. Angela Course/
+│   ├── 📁 2/
+│   │   ├── 📁 2.1 Heading Element/
+│   │   │   ├── 🖼️ goal.png
+│   │   │   ├── 🌐 index.html
+│   │   │   └── 🌐 solution.html
+│   │   ├── 📁 2.2 Paragraph Element/
+│   │   │   ├── 🖼️ goal.png
+│   │   │   ├── 🌐 index.html
+│   │   │   └── 🌐 solution.html
+│   │   ├── 📁 2.3 Void Elements/
+│   │   │   ├── 🖼️ goal.png
+│   │   │   ├── 🌐 index.html
+│   │   │   └── 🌐 solution.html
+│   │   └── 📁 2.4 Movie Ranking Project/
+│   │       ├── 🖼️ goal.png
+│   │       ├── 🌐 index.html
+│   │       └── 🌐 solution.html
+│   ├── 📁 3/
+│   │   ├── 📁 3.0 List Elements/
+│   │   │   ├── 🖼️ goal.png
+│   │   │   ├── 🌐 index.html
+│   │   │   └── 🌐 solution.html
+│   │   ├── 📁 3.1 Nesting and Indentation/
+│   │   │   ├── 🖼️ goal.png
+│   │   │   ├── 🌐 index.html
+│   │   │   └── 🌐 solution.html
+│   │   ├── 📁 3.2 Anchor Elements/
+│   │   │   ├── 🖼️ goal.png
+│   │   │   ├── 🌐 index.html
+│   │   │   └── 🌐 solution.html
+│   │   ├── 📁 3.3 Image Elements/
+│   │   │   ├── 🖼️ goal1.png
+│   │   │   ├── 🖼️ goal2.png
+│   │   │   ├── 🌐 index.html
+│   │   │   ├── 🌐 solution1.html
+│   │   │   └── 🌐 solution2.html
+│   │   └── 📁 3.4 Birthday Invite Project/
+│   │       ├── 🖼️ goal.png
+│   │       ├── 🌐 index.html
+│   │       └── 🌐 solution.html
+│   └── 📁 4/
+│       ├── 📁 4.0 File Paths/
+│       │   ├── 📁 Folder0/
+│       │   │   ├── 📁 Folder3/
+│       │   │   │   └── 🖼️ cat.png
+│       │   │   ├── 🖼️ goal.png
+│       │   │   ├── 🌐 index.html
+│       │   │   ├── 🖼️ rabbit.png
+│       │   │   └── 🌐 solution.html
+│       │   ├── 📁 Folder1/
+│       │   │   ├── 📁 Folder2/
+│       │   │   │   └── 🖼️ bird.png
+│       │   │   └── 🖼️ fish.png
+│       │   └── 🖼️ dog.png
+│       ├── 📁 4.1+Webpages/
+│       │   ├── 📁 assets/
+│       │   │   └── 📁 images/
+│       │   │       └── 🖼️ cat.png
+│       │   ├── 📁 public/
+│       │   │   ├── 🌐 about.html
+│       │   │   └── 🌐 contact.html
+│       │   ├── 🖼️ goal.png
+│       │   ├── 🌐 index.html
+│       │   └── 🌐 solution.html
+│       └── 📁 4.3 HTML Porfolio Project/
+│           ├── 📁 assets/
+│           │   └── 📁 images/
+│           │       ├── 🖼️ birthday-invite.png
+│           │       └── 🖼️ movie-ranking.png
+│           ├── 📁 public/
+│           │   ├── 🌐 about.html
+│           │   ├── 🌐 birthday-invite.html
+│           │   ├── 🌐 contact.html
+│           │   └── 🌐 movie-ranking.html
+│           ├── 🖼️ goal.png
+│           ├── 🌐 index.html
+│           └── 🌐 solution.html
 ├── 📁 Images/
 │   ├── 🖼️ Musashi.jpg
 │   ├── 🖼️ Pikachu.png
